@@ -1,6 +1,6 @@
 // API Configuration
 export const API_CONFIG = {
-  BASE_URL: 'https://backend-svqg.onrender.com',
+  BASE_URL: 'https://backend-svqg.onrender.com/api',
   ENDPOINTS: {
     // Auth endpoints
     // PROTECTED: '/protected/',
